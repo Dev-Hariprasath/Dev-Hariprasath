@@ -17,6 +17,6 @@ Frontend Developer @svcet
 <img width="48" height="48" src="https://img.icons8.com/color/48/intellij-idea.png" alt="intellij-idea"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
 
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/Hariprasath_Devloper?theme=dark&font=Marcellus&ext=contest)
+![Leetcode Stats](https://leetcard.jacoblin.cool/Dev_Hariprasath?theme=dark&font=Molengo&ext=activity)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Hariprasath-Developer&bg_color=050505&color=ffffff&line=2cb52e&point=ffffff&area=true&hide_border=true)]
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dev-Hariprasath&bg_color=c8f9d9&color=000000&line=00d624&point=0e110e&area=true&hide_border=true)
