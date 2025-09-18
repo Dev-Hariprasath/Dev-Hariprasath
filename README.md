@@ -1,8 +1,10 @@
 # Hi there 👋 I'm Hariprasath  
 
+<table border="0" cellspacing="0" cellpadding="0" style="border:none; border-collapse: collapse; outline: none;">
+  <tr style="border:none;">
+    <td width="60%" valign="top" style="border:none; outline:none;">
+      
 **💻 Full-Stack Developer | 📊 Data Engineering Enthusiast**  
-
-<img align="right" width="320" height="240" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
 - 🔭 Check out my [Portfolio](https://dev-hariprasath.github.io/My-Portfolio/)  
 - 🌱 Currently learning **DSA & System Design**  
@@ -10,7 +12,15 @@
 - 📫 Reach me at **hariprasath0620@gmail.com**  
 - 😄 Pronouns: **Techie**  
 
-<br clear="right"/> 
+    </td>
+    <td width="40%" align="right" valign="top" style="border:none; outline:none;">
+      <img src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" width="320" height="240"/>
+    </td>
+  </tr>
+</table>
+
+
+
 
 ---
 
