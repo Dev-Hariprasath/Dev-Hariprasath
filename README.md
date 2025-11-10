@@ -6,7 +6,7 @@
       
 **💻 Full-Stack Developer | 📊 Data Engineering Enthusiast**  
 
-- 🔭 Check out my [Portfolio](https://dev-hariprasath.github.io/My-Portfolio/)  
+- 🔭 Check out my [Portfolio](https://dev-hariprasath.netlify.app/home)  
 - 🌱 Currently learning **DSA & System Design**  
 - 💬 Ask me about **Java, React, Spark, Tech Stuff**  
 - 📫 Reach me at **hariprasath0620@gmail.com**  
