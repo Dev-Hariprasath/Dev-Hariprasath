@@ -59,7 +59,6 @@
   <img src="https://leetcard.jacoblin.cool/Dev_Hariprasath?theme=dark&font=Molengo&ext=activity" alt="LeetCode Stats" />
 </div>
 
-
 ---
 
 ## 🏆 Achievements  
